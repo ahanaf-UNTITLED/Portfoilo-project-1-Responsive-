@@ -1,0 +1,97 @@
+/*navbar design starts here*/
+
+
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+.nav-logo{
+    text-align: left;
+}
+.nav-title{
+    text-align: right;
+}
+.nav-menu{
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.nav-menu a{
+    padding: 5px 10px;
+    margin: 20px 0px;
+}
+
+.nav-title p{
+    width: 100%;
+}
+
+
+/*navbar design ends here*/
+
+/* no design requiers for 992px for this website */
+
+/* about me starts design here */
+
+.about-me-img{
+    margin-top: 100px;
+}
+.about-me-img img{
+    height: 500px;
+    width: 400px;
+}
+.about-me-desc p{
+    text-align: left;
+}
+/* about me ends design here */
+
+
+/* acievement-contact design starts here */
+
+.achievement{
+    padding-right: 50px;
+}
+
+.contact-links{
+    position: relative;
+    margin-left: 500px;
+}
+
+.media-button{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.achievement{
+    margin-left: 100px;
+}
+
+.contact{
+    margin-left: 280px;
+    margin-right: 100px;
+}
+/* acievement-contact design ends here */
+
+
+/* footer starts from here */
+
+.footer-menu{
+    margin-top: 10px;
+}
+
+.footer-menu a{
+    display: inline;
+}
+
+
+
+/* footer ends here */
+
